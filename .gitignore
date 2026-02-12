@@ -1,1 +1,22 @@
-inclassvenv
+inclassvenv/
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+venv/
+env/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Data files (Optional: keep large datasets off Git)
+*.csv
+*.xlsx
+
+Decision Tree Regressor.ipynb
